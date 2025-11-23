@@ -79,7 +79,7 @@ nav = [
           "sections/details/requirements-x/security.md",
           "sections/details/requirements-x/ua.md",
           "sections/details/requirements-x/ps.md",
-          "sections/details/requirements-x/rmra.md"
+          { "RMRA" = "sections/details/requirements-x/rmra.md" }
       ]},
       "sections/details/constraints.md",
       "sections/details/risks.md"
