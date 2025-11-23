@@ -44,3 +44,4 @@
 *[GPU]: Graphics Processing Unit
 *[WSL]: Windows Subsystem for Linux
 *[CPU]: Central Processing Unit
+*[RMRA]: Reliability, Maintainability, Resilience, Availability
