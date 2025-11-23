@@ -2,7 +2,7 @@
 icon: lucide/biceps-flexed
 ---
 
-# RMRA
+# Reliability, Maintainability, Resilience, Availability
 
 The [systems engineering body of knowledge](https://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK)) notes that reliability, maintenance, and availability attributes are three of the core attributes that affect the [utility of a system and its economic life-cycle cost](https://sebokwiki.org/wiki/System_Reliability,_Availability,_and_Maintainability).[^utility]  In the context of machine learning products, reliability, maintenance, availability, and resilience specifications are critical to items such as
 
