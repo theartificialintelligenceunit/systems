@@ -9,7 +9,7 @@ A solid basis is key.
 
 ## A Team's Key Business Questions
 
-In a 2018 article, Kevin Tyranos proposed a few steps that may aid a team's generation of its Key Business Questions form its Business Outcomes Targets.[^Tyranos2018]  In brief, and minimally adapted,
+In a 2018 article, Kevin Tyranos proposed a few steps that may aid a team's - i.e., client team - generation of its Key Business Questions form its Business Outcomes Targets.[^Tyranos2018]  In brief, and minimally adapted,
 
 <ol class="numeric">
   <li class="numeric">Business Outcomes<ul><li>Reduce operational cost due to intensive care unit hypoglycaemic incident care costs.</li><li>Reduce risk costs due to intensive care unit hypoglycaemic incident mortality rates.</li></ul>
@@ -144,7 +144,7 @@ $$score = 10 \times \frac{1}{f(x)}$$
 
 <br>
 
-<figcaption style="text-align: left; margin-left: 35px; max-width: 35rem; margin-right: 25px;">An illustration of considerations vis-à-vis a potential machine learning dependent project.  The project details inform the feasibility assessment.  <b>budget, time</b>: Is the budget, project time-box, and the collaboration commitment plausible?  <a href="https://www.stephanhitchins.com.au/desirability-viability-feasibility" target="_blank">Feasible, viable?</a> </figcaption>
+<figcaption style="text-align: left; margin-left: 35px; max-width: 35rem; margin-right: 25px;">An illustration of considerations vis-à-vis a potential machine learning dependent project.  The project details inform the feasibility assessment.  <ul><li>budget, time: Is the budget, project time-box, and the collaboration commitment plausible?</li><li><a href="https://www.stephanhitchins.com.au/desirability-viability-feasibility" target="_blank">feasible? viable?</a></li></ul></figcaption>
 
 <br>
 <br>
@@ -158,7 +158,7 @@ $$score = 10 \times \frac{1}{f(x)}$$
 
 [^Tyranos2018]: [How to Make Sure You’re Not Using Data Just to Justify Decisions You’ve Already Made](https://hbr.org/2018/10/how-to-make-sure-youre-not-using-data-just-to-justify-decisions-youve-already-made)
 [^Tyranos2020]: [Use Data to Answer Your Key Business Questions](https://hbr.org/2020/02/use-data-to-answer-your-key-business-questions)
-[^Gray2024a]: Chapter 2 of [Why Data Science Projects Fail: the Harsh Realities of Implementing AI and Analytics, without the Hype](https://www.taylorfrancis.com/books/mono/10.1201/9781032661360/data-science-projects-fail-evan-shellshear-douglas-gray)
+[^Gray2024a]: <a href="https://www.taylorfrancis.com/books/mono/10.1201/9781032661360/data-science-projects-fail-evan-shellshear-douglas-gray" target="_blank">Why Data Science Projects Fail: the Harsh Realities of Implementing AI and Analytics, without the Hype [Refer to Chapter 2]</a>
 [^Marginal2024]: [Marginal Benefit & Marginal Cost](https://www.investopedia.com/ask/answers/051815/what-difference-between-marginal-benefit-and-marginal-cost.asp)
 [^Marginal2018]: [What is the Marginal Cost of Capital?](https://pressbooks.pub/businessfinanceessentials/chapter/chapter-10-marginal-cost-of-capital-2/)
 
