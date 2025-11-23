@@ -111,6 +111,24 @@ IDEA** set up involves connecting to a machine's Docker [daemon](https://www.jet
 <br>
 <br>
 
+## Snippets
+
+<a href="https://mermaid.js.org" target="_blank">mermaid.js.org</a>
+
+```mermaid
+    flowchart LR
+      id0([start]) --> id1{budget}
+      id1 -- yes --> id2{budget,time}
+      id1 -- no --> id3([terminate])
+      id2 -- no --> id3
+      id2 -- yes --> id5(project details)
+      id5 --> id6{feasible? viable?}
+      id6 -- no --> id3
+      id6 -- yes --> id8(next steps)
+      
+      classDef default fill:#000000,stroke:#333333,stroke-width:0px,color:#ffffff,font-size:11pt;
+```
+
 <br>
 <br>
 
