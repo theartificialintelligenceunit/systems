@@ -22,7 +22,7 @@ teams.</li>
 
 <br>
 
-One of the first sections of these pages is **Deployment Goal**.  Colleagues may question why.  Here are a few references that
+One of the key sections of these pages is <a href="sections/details/preliminaries/#deployment-goal">deployment goal</a> section. Here are a few references that
 capture our experience of why business data science projects fail, and the advantages of starting with ``the end in mind''
 
 <ul class="disc">
