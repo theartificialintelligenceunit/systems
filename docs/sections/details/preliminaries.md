@@ -22,7 +22,7 @@ icon: lucide/focus
             To reduce the mis-classification rate of retinal images of diabetic patients to ≤ 1.25% per class per quarter.
         </blockquote><br><br></td>
     </tr>
-    <tr><td>Deployment Goal</td>
+    <tr><td><a id="deployment-goal">Deployment Goal</a></td>
         <td><b>What is the aim, expected output, of the product's model?</b>  Example:
         <blockquote>
             A retinal image's diabetic retinopathy classification probability per class.
